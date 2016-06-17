@@ -1,2 +1,2 @@
 FROM alpine
-RUN echo "woooooo" > file
+RUN echo "woooooo2" > file
