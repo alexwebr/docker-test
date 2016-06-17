@@ -1,2 +1,2 @@
 FROM alpine
-RUN echo "world" > file
+RUN echo "woooooo" > file
